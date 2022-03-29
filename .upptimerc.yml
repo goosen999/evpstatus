@@ -16,6 +16,7 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /evpstatus
   logoUrl: https://elitevault.io/images/logo_new.png
+  favicon: https://elitevault.io/favicon.ico
   name: Elite Vault Protocol Status
   introTitle: "Your first step towards **sustainability** and **transparency**"
   introMessage: Elite Vault Protocol has a unique strategy to provide a sustainable project with **transparency**, **stable growth**, reasonable **passive income**, and **flexibility**.
