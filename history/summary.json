@@ -1,22 +1,22 @@
 [
   {
     "name": "EVP main website",
-    "url": "https://www.elitevault.io",
-    "icon": "https://favicons.githubusercontent.com/www.elitevault.io",
+    "url": "https://elitevault.io",
+    "icon": "https://favicons.githubusercontent.com/elitevault.io",
     "slug": "evp-main-website",
-    "status": "down",
-    "uptime": "0.31%",
-    "uptimeDay": "0.31%",
-    "uptimeWeek": "0.31%",
-    "uptimeMonth": "0.31%",
-    "uptimeYear": "0.31%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.24%",
+    "uptimeDay": "0.24%",
+    "uptimeWeek": "0.24%",
+    "uptimeMonth": "0.24%",
+    "uptimeYear": "0.24%",
+    "time": 175,
+    "timeDay": 175,
+    "timeWeek": 175,
+    "timeMonth": 175,
+    "timeYear": 175,
     "dailyMinutesDown": {
-      "2022-03-29": 6
+      "2022-03-29": 25
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 253,
-    "timeDay": 253,
-    "timeWeek": 253,
-    "timeMonth": 253,
-    "timeYear": 253,
+    "time": 236,
+    "timeDay": 236,
+    "timeWeek": 236,
+    "timeMonth": 236,
+    "timeYear": 236,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/vault.elitevault.io",
     "slug": "evp-vault-website",
     "status": "down",
-    "uptime": "0.17%",
-    "uptimeDay": "0.17%",
-    "uptimeWeek": "0.17%",
-    "uptimeMonth": "0.17%",
-    "uptimeYear": "0.17%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-29": 6
+      "2022-03-29": 25
     }
   }
 ]
