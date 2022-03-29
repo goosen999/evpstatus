@@ -4,7 +4,7 @@ repo: evpstatus # The name of this repository
 
 sites:
   - name: EVP main website
-    url: https://www.elitevault.io
+    url: https://elitevault.io
   - name: EVP buy website
     url: https://buy.elitevault.io
   - name: EVP vault website
