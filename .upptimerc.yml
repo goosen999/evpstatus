@@ -14,7 +14,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
-   baseUrl: /evpstatus
+  baseUrl: /evpstatus
   logoUrl: https://elitevault.io/images/logo_new.png
   name: Elite Vault Protocol Status
   introTitle: "Your first step towards **sustainability** and **transparency**"
