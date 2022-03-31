@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/elitevault.io",
     "slug": "evp-main-website",
     "status": "up",
-    "uptime": "92.02%",
-    "uptimeDay": "92.02%",
-    "uptimeWeek": "92.02%",
-    "uptimeMonth": "92.02%",
-    "uptimeYear": "92.02%",
-    "time": 201,
-    "timeDay": 201,
-    "timeWeek": 201,
-    "timeMonth": 201,
-    "timeYear": 201,
+    "uptime": "98.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "98.58%",
+    "uptimeYear": "98.58%",
+    "time": 204,
+    "timeDay": 212,
+    "timeWeek": 204,
+    "timeMonth": 204,
+    "timeYear": 204,
     "dailyMinutesDown": {
       "2022-03-29": 25
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 222,
-    "timeDay": 222,
-    "timeWeek": 222,
-    "timeMonth": 222,
-    "timeYear": 222,
+    "time": 239,
+    "timeDay": 324,
+    "timeWeek": 239,
+    "timeMonth": 239,
+    "timeYear": 239,
     "dailyMinutesDown": {}
   },
   {
@@ -54,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-30": 79,
+      "2022-03-31": 78,
+      "2022-03-30": 1440,
       "2022-03-29": 233
     }
   }
