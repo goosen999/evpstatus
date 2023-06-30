@@ -5,22 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/elitevault.io.ico",
     "slug": "evp-main-website",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.96%",
     "time": 247,
-    "timeDay": 148,
-    "timeWeek": 215,
-    "timeMonth": 663,
-    "timeYear": 261,
+    "timeDay": 136,
+    "timeWeek": 212,
+    "timeMonth": 662,
+    "timeYear": 262,
     "dailyMinutesDown": {
-      "2023-06-29": 10,
       "2022-11-10": 16,
       "2022-11-04": 22,
-      "2022-10-17": 18,
-      "2022-06-30": 179
+      "2022-10-17": 18
     }
   },
   {
@@ -35,15 +33,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 192,
-    "timeDay": 202,
-    "timeWeek": 197,
+    "timeDay": 175,
+    "timeWeek": 194,
     "timeMonth": 188,
-    "timeYear": 193,
+    "timeYear": 194,
     "dailyMinutesDown": {
       "2022-11-10": 16,
       "2022-11-04": 22,
-      "2022-10-17": 18,
-      "2022-06-30": 179
+      "2022-10-17": 18
     }
   },
   {
@@ -52,21 +49,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/vault.elitevault.io.ico",
     "slug": "evp-vault-website",
     "status": "up",
-    "uptime": "92.29%",
+    "uptime": "92.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 223,
-    "timeDay": 361,
-    "timeWeek": 214,
+    "timeDay": 179,
+    "timeWeek": 210,
     "timeMonth": 204,
-    "timeYear": 230,
+    "timeYear": 231,
     "dailyMinutesDown": {
       "2022-11-10": 16,
       "2022-11-04": 46,
-      "2022-10-17": 18,
-      "2022-06-30": 179
+      "2022-10-17": 18
     }
   }
 ]
