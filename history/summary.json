@@ -4,18 +4,19 @@
     "url": "https://elitevault.io",
     "icon": "https://icons.duckduckgo.com/ip3/elitevault.io.ico",
     "slug": "evp-main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 260,
-    "timeDay": 187,
-    "timeWeek": 314,
-    "timeMonth": 249,
+    "timeDay": 201,
+    "timeWeek": 302,
+    "timeMonth": 248,
     "timeYear": 274,
     "dailyMinutesDown": {
+      "2023-12-16": 0,
       "2023-08-14": 36
     }
   },
@@ -24,35 +25,39 @@
     "url": "https://buy.elitevault.io",
     "icon": "https://icons.duckduckgo.com/ip3/buy.elitevault.io.ico",
     "slug": "evp-buy-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 103,
-    "timeWeek": 238,
-    "timeMonth": 239,
+    "timeDay": 190,
+    "timeWeek": 243,
+    "timeMonth": 240,
     "timeYear": 206,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-16": 0
+    }
   },
   {
     "name": "EVP vault website",
     "url": "https://vault.elitevault.io",
     "icon": "https://icons.duckduckgo.com/ip3/vault.elitevault.io.ico",
     "slug": "evp-vault-website",
-    "status": "up",
-    "uptime": "94.37%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "94.38%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 82,
-    "timeWeek": 221,
-    "timeMonth": 220,
+    "timeDay": 96,
+    "timeWeek": 207,
+    "timeMonth": 216,
     "timeYear": 201,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-16": 0
+    }
   }
 ]
