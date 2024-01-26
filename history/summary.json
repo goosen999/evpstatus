@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 265,
-    "timeDay": 379,
-    "timeWeek": 232,
-    "timeMonth": 257,
+    "time": 264,
+    "timeDay": 111,
+    "timeWeek": 204,
+    "timeMonth": 254,
     "timeYear": 282,
     "dailyMinutesDown": {
       "2023-08-14": 36
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 195,
-    "timeWeek": 226,
-    "timeMonth": 245,
-    "timeYear": 213,
+    "time": 210,
+    "timeDay": 116,
+    "timeWeek": 214,
+    "timeMonth": 237,
+    "timeYear": 212,
     "dailyMinutesDown": {}
   },
   {
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vault.elitevault.io.ico",
     "slug": "evp-vault-website",
     "status": "up",
-    "uptime": "94.71%",
+    "uptime": "94.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 374,
-    "timeWeek": 187,
-    "timeMonth": 235,
-    "timeYear": 207,
+    "timeDay": 116,
+    "timeWeek": 174,
+    "timeMonth": 229,
+    "timeYear": 206,
     "dailyMinutesDown": {}
   }
 ]
